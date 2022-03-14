@@ -1,0 +1,23 @@
+.categories-header{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 5rem;
+    align-items: center;
+}
+
+.categories-header-search{
+    width: 70%;
+    margin: 5px;
+}
+
+
+.categories-header-dropdown{
+    width: 30%;
+    margin: 5px;
+
+}
+
+.inputRounded .MuiOutlinedInput-root{
+    border-radius: 0px;
+ }

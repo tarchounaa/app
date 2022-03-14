@@ -1,0 +1,11 @@
+.categories-main-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.categories-card-50{
+    flex: 50%; 
+    max-width: 50%;
+}
+

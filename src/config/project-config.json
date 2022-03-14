@@ -1,0 +1,6 @@
+{
+    "url":{
+        "allCategories": "http://localhost:3003/all-categories",
+        "visible": "http://localhost:3003/visible-categories"
+    }
+}
